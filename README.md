@@ -16,6 +16,9 @@ Like 5x Udacity Scholar
 
 - 🌱 I’m currently working on Data Science
 
+- 💬 Write me on : manisaiprasadam@gmail.com
+
+
 - 📫 How to reach me:
 
 
@@ -25,6 +28,8 @@ Like 5x Udacity Scholar
   <a href="mailto:manisaiprasadam@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/m.manisai" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+Also check out my Notes here : https://manisaiprasad.github.io/notes/
 
 <!--
 **manisaiprasad/manisaiprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
