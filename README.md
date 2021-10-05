@@ -1,11 +1,11 @@
 ### Hey there 👋
 ![Banner](https://raw.githubusercontent.com/manisaiprasad/notes/master/images/bg.png)
 
-- I am a Student Developer 
+- I am a Professional Software Engineer 
 
 - 🔭 I work with various Computer Science TEch 👨🏽‍💻
 
-- I am also a DSC Lead, Microsoft Student Partner,Google Cloud Facilitator, Mentor at Den X, Dean School of AI, Traveller, Speaker, and a Data Scientist
+- I was also a DSC Lead, Microsoft Student Partner,Google Cloud Facilitator, Mentor at Den X, Dean School of AI, Traveller, Speaker, and a Data Scientist
 
 - I am a big fan of the open-source and I got various opportunities to attend global events like AMP Contributors Summit New York, Open Source Summit Japan(OSS) and AMP Conf Tokyo
 
