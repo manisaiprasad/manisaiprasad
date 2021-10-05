@@ -50,7 +50,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ✨GitHub Stats  : 
+<div>
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=manisaiprasad&theme=onedark&column=3">
+</div>
+<br/>
 <div align="center">
+
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manisaiprasad&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manisaiprasad&theme=tokyonight" />
 </div>
