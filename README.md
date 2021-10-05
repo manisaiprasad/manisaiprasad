@@ -49,3 +49,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ✨GitHub Stats  : 
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manisaiprasad&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manisaiprasad&theme=tokyonight" />
+</div>
+
+<br/>  
+
+![harikanani's github activity graph](https://activity-graph.herokuapp.com/graph?username=manisaiprasad&theme=nord) 
